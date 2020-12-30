@@ -56,7 +56,7 @@
     height: 169px;
 }
 
-photo-overlay {
+.photo-overlay {
     color: #fff;
     position: absolute;
     top: 0;
